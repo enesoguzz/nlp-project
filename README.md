@@ -1,4 +1,3 @@
-```
 # Turkish Spell Checker Project
 This project aims to develop a system that detects and corrects Turkish spelling errors using natural language processing (NLP) techniques.
 
